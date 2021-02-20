@@ -5,11 +5,8 @@
 
 ### GitHub Stats
 
-<div align='left' style="display: flex; justify-content: space-between;">
 ---
 <img align="left" alt="Alf's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alfredo-Developer&show_icons=true&theme=react&bg_color=DEG,00589B,0692E2&hide_border=true&title_color=0D1117&icon_color=0D1117" />
 <img align="left" alt="Alf's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-Developer&show_icons=true&theme=react&bg_color=DEG,00589B,0692E2&hide_border=true&title_color=0D1117&icon_color=0D1117" />
-
-</div>
 
 ![Footer](./footer.png)
