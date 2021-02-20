@@ -1,4 +1,4 @@
-![alt text](./header.png)
+![Header](./header.png)
 
 ### Alf
  I'm an intermediate programmer from the United States. I focus primarily in Backend Web Development with Node JS, and I've done some work with Java.
@@ -21,4 +21,4 @@
 
 </div>
 
-![alt text](./footer.svg)
+![Footer](./footer.png)
